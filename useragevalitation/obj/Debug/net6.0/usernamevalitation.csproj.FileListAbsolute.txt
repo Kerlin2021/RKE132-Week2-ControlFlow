@@ -1,0 +1,15 @@
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\usernamevalitation.csproj.AssemblyReference.cache
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\usernamevalitation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\usernamevalitation.AssemblyInfoInputs.cache
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\usernamevalitation.AssemblyInfo.cs
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\usernamevalitation.csproj.CoreCompileInputs.cache
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\bin\Debug\net6.0\usernamevalitation.exe
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\bin\Debug\net6.0\usernamevalitation.deps.json
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\bin\Debug\net6.0\usernamevalitation.runtimeconfig.json
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\bin\Debug\net6.0\usernamevalitation.dll
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\bin\Debug\net6.0\usernamevalitation.pdb
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\usernamevalitation.dll
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\refint\usernamevalitation.dll
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\usernamevalitation.pdb
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\usernamevalitation.genruntimeconfig.cache
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\ref\usernamevalitation.dll

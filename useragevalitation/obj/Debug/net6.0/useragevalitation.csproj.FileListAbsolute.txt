@@ -1,0 +1,15 @@
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\bin\Debug\net6.0\useragevalitation.exe
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\bin\Debug\net6.0\useragevalitation.deps.json
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\bin\Debug\net6.0\useragevalitation.runtimeconfig.json
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\bin\Debug\net6.0\useragevalitation.dll
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\bin\Debug\net6.0\useragevalitation.pdb
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\useragevalitation.csproj.AssemblyReference.cache
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\useragevalitation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\useragevalitation.AssemblyInfoInputs.cache
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\useragevalitation.AssemblyInfo.cs
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\useragevalitation.csproj.CoreCompileInputs.cache
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\useragevalitation.dll
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\refint\useragevalitation.dll
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\useragevalitation.pdb
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\useragevalitation.genruntimeconfig.cache
+C:\Users\siimk\source\repos\Weektwo\useragevalitation\obj\Debug\net6.0\ref\useragevalitation.dll

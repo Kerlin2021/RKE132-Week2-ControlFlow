@@ -1,0 +1,5 @@
+C:\Users\siimk\source\repos\Weektwo\userAgeValidationnew\obj\Debug\net6.0\userAgeValidationnew.csproj.AssemblyReference.cache
+C:\Users\siimk\source\repos\Weektwo\userAgeValidationnew\obj\Debug\net6.0\userAgeValidationnew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siimk\source\repos\Weektwo\userAgeValidationnew\obj\Debug\net6.0\userAgeValidationnew.AssemblyInfoInputs.cache
+C:\Users\siimk\source\repos\Weektwo\userAgeValidationnew\obj\Debug\net6.0\userAgeValidationnew.AssemblyInfo.cs
+C:\Users\siimk\source\repos\Weektwo\userAgeValidationnew\obj\Debug\net6.0\userAgeValidationnew.csproj.CoreCompileInputs.cache

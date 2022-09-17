@@ -1,0 +1,15 @@
+C:\Users\siimk\source\repos\Weektwo\Weektwo\bin\Debug\net6.0\Weektwo.exe
+C:\Users\siimk\source\repos\Weektwo\Weektwo\bin\Debug\net6.0\Weektwo.deps.json
+C:\Users\siimk\source\repos\Weektwo\Weektwo\bin\Debug\net6.0\Weektwo.runtimeconfig.json
+C:\Users\siimk\source\repos\Weektwo\Weektwo\bin\Debug\net6.0\Weektwo.dll
+C:\Users\siimk\source\repos\Weektwo\Weektwo\bin\Debug\net6.0\Weektwo.pdb
+C:\Users\siimk\source\repos\Weektwo\Weektwo\obj\Debug\net6.0\Weektwo.csproj.AssemblyReference.cache
+C:\Users\siimk\source\repos\Weektwo\Weektwo\obj\Debug\net6.0\Weektwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siimk\source\repos\Weektwo\Weektwo\obj\Debug\net6.0\Weektwo.AssemblyInfoInputs.cache
+C:\Users\siimk\source\repos\Weektwo\Weektwo\obj\Debug\net6.0\Weektwo.AssemblyInfo.cs
+C:\Users\siimk\source\repos\Weektwo\Weektwo\obj\Debug\net6.0\Weektwo.csproj.CoreCompileInputs.cache
+C:\Users\siimk\source\repos\Weektwo\Weektwo\obj\Debug\net6.0\Weektwo.dll
+C:\Users\siimk\source\repos\Weektwo\Weektwo\obj\Debug\net6.0\refint\Weektwo.dll
+C:\Users\siimk\source\repos\Weektwo\Weektwo\obj\Debug\net6.0\Weektwo.pdb
+C:\Users\siimk\source\repos\Weektwo\Weektwo\obj\Debug\net6.0\Weektwo.genruntimeconfig.cache
+C:\Users\siimk\source\repos\Weektwo\Weektwo\obj\Debug\net6.0\ref\Weektwo.dll
